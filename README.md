@@ -105,14 +105,15 @@ ITS wants to disseminate information and services to the RIT campus as quickly a
 # M2: Contextual Inquiry, pg 126
 
 ## From Milestone 2:
-Revising milestone 1. Your milestone 1 website work is not done. Milestone 1 was about specifying the broad outlines of your project scope, users, problem statement, solution statement. Those broad outlines are likely to change. There should always be a place on your website where people can look to find out the big picture. So I’m not saying that you should do away with that and replace it with a lot of details, but be flexible about it and go back and change a few words or diagrams or whatever that tell the big picture as you go along. Refer to that so that the big picture directs you when you have to decide which details are relevant.
+"Revising milestone 1. Your milestone 1 website work is not done. Milestone 1 was about specifying the broad outlines of your project scope, users, problem statement, solution statement. Those broad outlines are likely to change. There should always be a place on your website where people can look to find out the big picture. So I’m not saying that you should do away with that and replace it with a lot of details, but be flexible about it and go back and change a few words or diagrams or whatever that tell the big picture as you go along. Refer to that so that the big picture directs you when you have to decide which details are relevant."
 
- -- update our website
- -- conduct a contextual inquiry
- -- update milestone 1
- --  conduct contextual inquiry part 1: do interviews ( 8-12 )
- -- conduct contextual inquiry part 2:  interpretation session
- --  conduct contextual inquiry part 3: affinity diagrams
+### Action Items
+* update our website
+* conduct a contextual inquiry
+* update milestone 1
+* conduct contextual inquiry part 1: do interviews ( 8-12 )
+* conduct contextual inquiry part 2:  interpretation session
+* conduct contextual inquiry part 3: affinity diagrams
 
 ## Contextual Inquiry
 Total: 8 to 12 users
@@ -142,9 +143,9 @@ If recording screen: Are you comfortable recording your phone’s screen during 
 
 Please feel free to respond to text messages, answer calls, or do anything else you would normally do on your phone.
 
-Start recording
+_Start recording_
 
-Standard questions:
+### Standard questions:
 
 What is your age? __________
 
@@ -197,29 +198,31 @@ _____________________________________________________________________
 
 
 
-Scripted Description of app (if needed):
+### Scripted Description of app _(if needed)_:
 The RIT Mobile app is an aggregate of RIT web services that can help in everyday functioning on campus, as well as keeping in touch with campus culture. It includes:
-Campus news from the University News office
-Searchable campus map
-Calendar of events displayed by date or category
-Detailed information about dining locations on campus, along with menus, hours and days of service
-Campus and local bus schedules
-Lab hours and locations
-Bookmark favorite links
-Access to the full RIT website
-List of important links to RIT websites
+* Campus news from the University News office
+* Searchable campus map
+* Calendar of events displayed by date or category
+* Detailed information about dining locations on campus, along with menus, hours and days of service
+* Campus and local bus schedules
+* Lab hours and locations
+* Bookmark favorite links
+* Access to the full RIT website
+* List of important links to RIT websites
 
-Download applications
+### Download applications
 Please download the RIT Mobile App if you do not have it
 
-If recording screen: Download TechCapture
+### If recording screen: 
+Download TechCapture
 
-Exploration period
+### Exploration period
 Take a few minutes or as long as you would like to look through the application. Feel free to share your thoughts as you are looking, but you are not obligated to.
+**
 
-Tasks
+### Tasks
 
-On campus students only:
+_On campus students only:_
 
 Check your meal plan balance
 
@@ -236,7 +239,9 @@ _____________________________________________________________________
 Look up → Jackie Robinson: a life remembered by Allen Maury, 1987
 
 _____________________________________________________________________
-Online students only:
+**
+
+_Online students only:_
 
 Please favorite the News service
 
@@ -253,8 +258,9 @@ _____________________________________________________________________
 Check the Twitter Feed for RIT Sports (Social)
 
 _____________________________________________________________________
+**
 
-Guests only:
+_Guests only:_
 
 Check bus schedule/locations (Shuttles)
 
@@ -272,22 +278,20 @@ Please favorite the News service
 
 _____________________________________________________________________
 
-Conclude interview
+### Conclude interview
 Thank you for your time, and your feedback is valuable for our project.
 Would you like us to send you emails with updates on the results of this project?
 
 Email address: _____________________________________________
 
-Stop recording
+_Stop recording_
 
- Interpretation Session 
-Individually Summarize and hold all interviews by: Monday, September 24th
-On our own: general interpretations of data 
-We come together and do interpretations/affinity diagrams
-LM: make account and share username and password
+### Interpretation Session 
+* Individually Summarize and hold all interviews by: Monday, September 24th
+* On our own: general interpretations of data 
+* We come together and do interpretations/affinity diagrams
+* LM: make account and share username and password
 
-Affinity Diagrams (individual ones due Wednesday) (meeting Wednesday night, combine ideas)
+### Affinity Diagram
+![Affinity Diagram](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg)
 
-Update Website by (Thursday night at midnight)
-
-Update Milestone 1 as needed (also make it pretty)
