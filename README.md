@@ -82,13 +82,16 @@ We can get in touch with students in person on campus, and also reach out to the
 
 ## ITS
 ### Goals:
-ITS wants to disseminate information and services to the RIT campus as quickly and easily as possible. 
+ITS wants to disseminate information and services to the RIT campus as quickly and easily as possible, maintain the accuracy of the information within the application, and (as the developers and stewards of the app) ensure it entails a quality user experience.
 
 ### Worries:
+ITS may be concerned that the app is not up-to-date in terms of accuracy, technology stack, and user experience potential.
 
 ### Ideas:
+ITS may want to make the app more usable and easy to navigate so that perhaps more of the functionality is actually exercised and valued. 
 
 ### How to involve them and communicate progress & design to them:
+We will reach out to ITS to make them aware of our project and to offer access to the findings and artifacts that we generate throughout it. If they would like to be involved in the redesign as a prominent stakeholder, we'll be happy to deliver prototypes to them to engage in a dialogue and receive feedback & direction.
 
 ***
 
