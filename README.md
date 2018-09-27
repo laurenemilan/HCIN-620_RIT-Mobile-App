@@ -15,19 +15,18 @@ GitHub
 https://dxf7606.github.io/HCIN-620_RIT-Mobile-App
 
 ***
-***
 
 # M1: Project Focus, pg 125
 
 ## Problem: 
 The current HCI implementation and design could be improved and may not always lend itself to intuitive use or user satisfaction.
 
-***
+**
 
 ## Market Space: 
 The application can be used by RIT students and visitors of RIT.
 
-***
+**
 
 ## Expectations and Best Practices: 
 The Gestalt principles of proximity, similarity, and closure, and other usability best practices emphasize that grouping similar web entities (features, pages, or links) together will help the user with discovery and mapping. Through discovery, users will be able to appropriately map icons to their function. Further, while there is an expectation that there should be multiple, clearly labeled routes to different features, there should be little to no redundancies. For example, there should not be two different links on the same page that lead to the same web app entity. This gives the impression that the links represent two different ideas when they are not. There is an expectation that the configuration of this application will allow users to complete their goals in an efficient, accurate, and satisfying manner. These are some of the practices that the team will use to address the current design violations of the RIT Mobile application. 
@@ -36,7 +35,7 @@ Specific to this app, there are no real business requirements or expectations. I
 
 The only competition for this application would be developers of similar services, who would likely collaborate rather than compete. At this time, we are not aware of any such individuals or groups working on a similar application or service.
 
-***
+**
 
 ## Product Issues: 
 The main page of the RIT Mobile app does not implement principles of proximity or similarity and overall has little order or intuitive distinction between the page links leading to the rest of the app. Unrelated pages, like “Visit Evaluations” and “Campus Maps,” are adjacent to each other, while complementary page links, like “Reporter” and “News” are not directly next to each other. Some of the links are named ambiguously; for example, a user wouldn’t necessarily be able to discern what the “Apps Showcase” link is for. There is no ability to customize the order of the apps, but there is an option to add links to the “My Favorites” at the top of the screen. However, two of the team members unintentionally added links to their favorites, not even realizing the process they executed to do so. 
@@ -45,9 +44,10 @@ The “Messages” section does not provide an option for users to send messages
 ## General Solution:
 Through contextual inquiry, our goal is to garner insight to our participants’ understanding of the RIT Mobile application interface. Our project falls under focused rapid contextual design, so we plan to conduct contextual interviews with 8-12 users, including on campus students, online students, and visiting family or friends, if possible. After consolidating the data via an interpretation session, the team plans to use Realtimeboard or Boardthing to generate our affinity diagrams. Through the affinity diagrams, the team will develop personas, which will inform our lo-fi prototype work-ups. Once the team undergoes a number of iterations of the  paper mockups, we will be ready to design our Hi-Fi prototype for user testing on at least 5 participants. All work will be summarized via our website. 
 
-***
+**
 
 ## **Stakeholders:**
+
 ## Guests
 Guests would include parents, prospective students, co-op employers, or general visitors to RIT’s campus.
 
@@ -60,8 +60,10 @@ Guests might be confused about the names of the many pages on the homepage, and 
 ### Ideas: 
 Reducing the number of icons on the homepage and categorizing links into relevant groups (e.g., navigation, admissions, events, etc.) could help guests who might be unfamiliar with RIT find what they are looking for quickly. Several of the links are associated with jargon RIT students might know, but guests would not, such as “Reporter” and “The Loop.” Changing these to more general titles might make the purpose of the link more obvious to guests.
 
-### How to involve them and communicate progress and design to them: 
+### How to involve them and communicate progress & design to them: 
 We can ask individuals who do not attend RIT to provide input on the app, and identify what their concerns might be if they were to use the app while visiting campus.
+
+**
 
 ## Students
 ### Goals: 
@@ -73,8 +75,20 @@ Students may express concern of how accurate or up to date the information is co
 ### Ideas: 
 Students could propose a change to the interface to simplify the homepage, reducing the number of icons. They may want the ability to hide or delete apps from the home page, but then still have access to them on the vertical drop down. Students may want better security on the application, like requiring an RIT student login to the RIT Persona. 
 
-### How to involve them and communicate progress and design to them: 
+### How to involve them and communicate progress & design to them: 
 We can get in touch with students in person on campus, and also reach out to the online via email. We can communicate progress and the new design as we go along with email updates to their RIT e-mails if they prefer.
+
+**
+
+## ITS
+### Goals:
+ITS wants to disseminate information and services to the RIT campus as quickly and easily as possible. 
+
+### Worries:
+
+### Ideas:
+
+### How to involve them and communicate progress & design to them:
 
 ***
 
