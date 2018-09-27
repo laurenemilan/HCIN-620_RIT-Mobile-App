@@ -16,7 +16,7 @@ https://dxf7606.github.io/HCIN-620_RIT-Mobile-App
 
 ***
 
-# M1: Project Focus, pg 125
+# [M1: Project Focus. pg 125](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/wiki/Milestone-1)
 
 ## Problem: 
 The current HCI implementation and design could be improved and may not always lend itself to intuitive use or user satisfaction.
@@ -105,7 +105,7 @@ We will reach out to ITS to make them aware of our project and to offer access t
 
 ***
 
-# M2: Contextual Inquiry, pg 126
+# [M2: Contextual Inquiry. pg 125](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/wiki/Milestone-2)
 
 ## From Milestone 2:
 "Revising milestone 1. Your milestone 1 website work is not done. Milestone 1 was about specifying the broad outlines of your project scope, users, problem statement, solution statement. Those broad outlines are likely to change. There should always be a place on your website where people can look to find out the big picture. So I’m not saying that you should do away with that and replace it with a lot of details, but be flexible about it and go back and change a few words or diagrams or whatever that tell the big picture as you go along. Refer to that so that the big picture directs you when you have to decide which details are relevant."
@@ -295,8 +295,7 @@ _Stop recording_
 * We come together and do interpretations/affinity diagrams
 * LM: make account and share username and password
 
-### Affinity Diagram
+### Affinity Diagram 
 ![Affinity Diagram](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg)
-
+**
 https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg
-
