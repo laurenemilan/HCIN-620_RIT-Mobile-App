@@ -295,6 +295,7 @@ _Stop recording_
 * We come together and do interpretations/affinity diagrams
 * LM: make account and share username and password
 
-### Affinity Diagram - https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg
+### Affinity Diagram
 ![Affinity Diagram](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg)
+https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg
 
