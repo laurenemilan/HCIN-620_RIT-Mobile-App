@@ -289,13 +289,8 @@ Email address: _____________________________________________
 
 _Stop recording_
 
-### Interpretation Session 
-* Individually Summarize and hold all interviews by: Monday, September 24th
-* On our own: general interpretations of data 
-* We come together and do interpretations/affinity diagrams
-* LM: make account and share username and password
 
 ### Affinity Diagram 
-![Affinity Diagram](https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg)
+![Affinity Diagram] (https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg)
 **
 https://github.com/dxf7606/HCIN-620_RIT-Mobile-App/blob/master/Milestone%202%20-%20HCIN%20620.jpg
